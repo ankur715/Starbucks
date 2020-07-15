@@ -1,7 +1,8 @@
 # Starbucks
+
 ---
 
-### Data Sources:
+### Data Sources:  
 - Kaggle dataset - [Starbucks Locations](https://www.kaggle.com/starbucks/store-locations) 
 - Censusgeocode - [Tracts](https://pypi.org/project/censusgeocode/)
 - Demographics - [Census acs5](https://pypi.org/project/census/)

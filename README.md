@@ -2,8 +2,13 @@
 ---
 
 - Kaggle dataset - [Starbucks Locations](https://www.kaggle.com/starbucks/store-locations) 
-- censusgeocode tracts from lon lat
-- demographics from censusgeocode
-- ridership for transits, lon lat match with censusgeocode
-- cleaned merged demo transit
-- starbucks yes/no for tracts
+- Censusgeocode - [Tracts](https://pypi.org/project/censusgeocode/)
+- Demographics - [Census acs5](https://pypi.org/project/census/)
+- Ridership - NYC, Chicago, Philadelphia stations  
+
+- Cleaned 
+- Merged 
+  - Tracts
+  - Demographics
+  - Ridership
+  - Starbucks Y/N 

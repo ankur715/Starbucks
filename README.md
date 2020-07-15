@@ -1,4 +1,4 @@
-# <div align="center">Starbucks
+# <div align="center">Optimal Starbucks Location
 <p align="center"> 
   <img width="600" height="400" src="https://www.nj.com/resizer/K9MVlUwBCrQwu9vlKPCmw4l77LE=/450x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/GYIQTDR4FBGDFMLHHYHA3XP43I.JPG">
 </p>

@@ -6,10 +6,13 @@
 - Demographics - [Census acs5](https://pypi.org/project/census/)
 - Ridership - NYC, Chicago, Philadelphia stations  
 
-
+### Process:  
 - Cleaned 
 - Merged 
   - Tracts
   - Demographics
   - Ridership
   - Starbucks Y/N 
+- Model
+  - Train/Test
+  - Optimize
